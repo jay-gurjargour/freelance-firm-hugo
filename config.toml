@@ -1,7 +1,7 @@
 baseURL       = "http://example.org/"
 languageCode  = "en-us"
 title         = "Roxo | Creative Design Agency"
-theme         = "roxo-hugo"
+theme         = "roxo"
 summarylength = 25
 
 # Site Menus
