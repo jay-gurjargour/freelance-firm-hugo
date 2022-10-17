@@ -4,6 +4,12 @@ title         = "Roxo | Creative Design Agency"
 theme         = "roxo"
 summarylength = 25
 
+[module]
+
+  [[module.imports]]
+    path = "github.com/StaticMania/roxo-hugo"
+    disable=false
+
 # Site Menus
 [menu]
   # Navbar Menus
